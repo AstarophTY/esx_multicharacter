@@ -2,7 +2,7 @@
 
 A Simplistic system, that allows Players to have multiple Characters, which can be customised for all player with `Config.Slots` or personally set a players character count using `setslots`, `remslots`, `enablechar` and `disablechar` Commands :)
 
-![Preview](https://i.imgur.com/EAHImD0.png)
+![Preview](https://imgur.com/IFMzt3g)
 
 ## Notes
 
@@ -36,3 +36,5 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses>.
 </td></tr></table>
+
+Redesign By Astaroph
