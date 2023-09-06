@@ -193,7 +193,6 @@ if ESX.GetConfig().Multichar then
 				SelectCharacterMenu(Characters, slots)
 			end,
 		}
-		print(SelectedCharacter)
 		if not Characters[SelectedCharacter].disabled then
 			option[#option + 1] = {
 				title = TranslateCap('char_play'),
