@@ -211,6 +211,7 @@ if ESX.GetConfig().Multichar then
 				title = TranslateCap('char_disabled'),
 				description = TranslateCap('char_disabled_description'),
 				icon = "xmark",
+				disabled = true,
 				onSelect = function(_)
 					SendNUIMessage({
 						action = "closeui"
